@@ -1,5 +1,7 @@
 # duguepes-matroutines #
 
+A collection of Matlab routines implementing various tasks related with pattern recognition and computer vision. http://www.cs.uoi.gr/~sfikas
+
 ## Useful files ##
 
 * Contents.m -------- Package summary
